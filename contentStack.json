@@ -16,20 +16,20 @@
 			"fontColor": "#FBFBFB"
 		},
 		{
-			"sectionId": "ApEHjUIniX",
-			"title": "You’re in Good Company",
-			"subtitle": "Discover the many ways Contentstack has helped its customers speed up omnichannel development and deployment.",
-			"bannerImageURL": "https://res.cloudinary.com/feather-blogs/image/upload/v1611174829/Companies-SSR/Contentstack/f88acab7ffd127b4465659500aa0538f_nhyijb.gif",
-			"backgroundColor": "#1B1B1B",
-			"fontColor": "#F8A056"
-		},
-		{
 			"sectionId": "1yo3T9V520",
 			"title": "Omnichannel Delivery",
 			"subtitle": "Enable your brands to deliver an integrated and continuous omnichannel digital experience across all touchpoints and devices.",
 			"bannerImageURL": "https://res.cloudinary.com/feather-blogs/image/upload/v1611174826/Companies-SSR/Contentstack/a270d270d5ca184422cf980475b99e24_qto7ys.gif",
 			"backgroundColor": "#EFEFEF",
 			"fontColor": "#046AE8"
+		},
+		{
+			"sectionId": "ApEHjUIniX",
+			"title": "You’re in Good Company",
+			"subtitle": "Discover the many ways Contentstack has helped its customers speed up omnichannel development and deployment.",
+			"bannerImageURL": "https://res.cloudinary.com/feather-blogs/image/upload/v1611174829/Companies-SSR/Contentstack/f88acab7ffd127b4465659500aa0538f_nhyijb.gif",
+			"backgroundColor": "#1B1B1B",
+			"fontColor": "#F8A056"
 		}
 	]
 }
