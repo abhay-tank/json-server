@@ -8,12 +8,12 @@
 	"fontColor": "#E1547E",
 	"sections": [
 		{
-			"sectionId": "1yo3T9V520",
-			"title": "Omnichannel Delivery",
-			"subtitle": "Enable your brands to deliver an integrated and continuous omnichannel digital experience across all touchpoints and devices.",
-			"bannerImageURL": "https://res.cloudinary.com/feather-blogs/image/upload/v1611174826/Companies-SSR/Contentstack/a270d270d5ca184422cf980475b99e24_qto7ys.gif",
-			"backgroundColor": "#EFEFEF",
-			"fontColor": "#046AE8"
+			"sectionId": "EK7aZ3UUEu",
+			"title": "Unified CMS",
+			"subtitle": "Use a single CMS to manage and publish content across mobile, web and IoT.",
+			"bannerImageURL": "https://res.cloudinary.com/feather-blogs/image/upload/v1611174842/Companies-SSR/Contentstack/f5b47c154f73b602-agile-software-engineering_moefgg.gif",
+			"backgroundColor": "#1F212D",
+			"fontColor": "#FBFBFB"
 		},
 		{
 			"sectionId": "ApEHjUIniX",
@@ -24,12 +24,12 @@
 			"fontColor": "#F8A056"
 		},
 		{
-			"sectionId": "EK7aZ3UUEu",
-			"title": "Unified CMS",
-			"subtitle": "Use a single CMS to manage and publish content across mobile, web and IoT.",
-			"bannerImageURL": "https://res.cloudinary.com/feather-blogs/image/upload/v1611174842/Companies-SSR/Contentstack/f5b47c154f73b602-agile-software-engineering_moefgg.gif",
-			"backgroundColor": "#1F212D",
-			"fontColor": "#FBFBFB"
+			"sectionId": "1yo3T9V520",
+			"title": "Omnichannel Delivery",
+			"subtitle": "Enable your brands to deliver an integrated and continuous omnichannel digital experience across all touchpoints and devices.",
+			"bannerImageURL": "https://res.cloudinary.com/feather-blogs/image/upload/v1611174826/Companies-SSR/Contentstack/a270d270d5ca184422cf980475b99e24_qto7ys.gif",
+			"backgroundColor": "#EFEFEF",
+			"fontColor": "#046AE8"
 		}
 	]
 }
