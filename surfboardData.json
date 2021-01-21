@@ -9,12 +9,16 @@
 		{
 			"companyId": "contentstack_OFmc8tO5ZY",
 			"companyName": "Contentstack",
-			"logoURL": "https://res.cloudinary.com/feather-blogs/image/upload/v1611168251/Companies-SSR/Navbar/contentstack_sow4co.jpg"
+			"logoURL": "https://res.cloudinary.com/feather-blogs/image/upload/v1611168251/Companies-SSR/Navbar/contentstack_sow4co.jpg",
+			"backgroundColor": "#DE4A48",
+			"fontColor": "#FCFEFA"
 		},
 		{
 			"companyId": "rawengineering_V1xYQEAGu0",
 			"companyName": "Raw Engineering",
-			"logoURL": "https://res.cloudinary.com/feather-blogs/image/upload/v1611168252/Companies-SSR/Navbar/raweng_icon_black_400x400_fjq2so.png"
+			"logoURL": "https://res.cloudinary.com/feather-blogs/image/upload/v1611168252/Companies-SSR/Navbar/raweng_icon_black_400x400_fjq2so.png",
+			"backgroundColor": "#010101",
+			"fontColor": "#F4F4F6"
 		}
 	],
 	"sections": [
